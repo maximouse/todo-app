@@ -1,2 +1,3 @@
 # todo-app
-Created with CodeSandbox
+
+Hard skills pre-employment test
